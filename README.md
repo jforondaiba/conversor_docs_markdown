@@ -136,7 +136,7 @@ Para que la conversión de PDFs escaneados (imágenes) funcione por OCR:
 Ejecuta el script principal con:
 
 ```bash
-python app_gui.py
+python conversordocmd.py
 
 ```
 
