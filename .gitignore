@@ -1,0 +1,22 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+
+# Archivos compilados y cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Carpetas pesadas creadas por PyInstaller (Empaquetado)
+build/
+dist/
+*.exe
+
+# Motor de Tesseract (Para no saturar GitHub con los 100MB+ de OCR)
+Tesseract-OCR/
+
+# Archivos de configuración local de VS Code / Cursor
+.vscode/
+.idea/
+.DS_Store
